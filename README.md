@@ -1,3 +1,26 @@
+## network_interface (melodic) - 2.0.0-0
+
+The packages in the `network_interface` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --ros-distro melodic --track melodic network_interface` on `Thu, 24 May 2018 19:37:34 -0000`
+
+The `network_interface` package was released.
+
+Version of package(s) in repository `network_interface`:
+
+- upstream repository: https://github.com/astuff/network_interface.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## network_interface (lunar) - 2.0.0-0
 
 The packages in the `network_interface` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --ros-distro lunar --track lunar network_interface` on `Thu, 24 May 2018 19:33:33 -0000`
