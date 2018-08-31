@@ -90,8 +90,8 @@ tracks:
     patches: null
     release_inc: '0'
     release_repo_url: git@github.com:astuff/network_interface-release
-    release_tag: v2.0.0
+    release_tag: :{version}
     ros_distro: melodic
     vcs_type: git
     vcs_uri: https://github.com/astuff/network_interface.git
-    version: 2.0.0
+    version: :{auto}
