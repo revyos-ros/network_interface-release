@@ -1,3 +1,26 @@
+## network_interface (kinetic) - 2.1.0-1
+
+The packages in the `network_interface` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --ros-distro kinetic --track kinetic network_interface` on `Thu, 05 Sep 2019 14:56:15 -0000`
+
+The `network_interface` package was released.
+
+Version of package(s) in repository `network_interface`:
+
+- upstream repository: https://github.com/astuff/network_interface.git
+- release repository: https://github.com/astuff/network_interface-release.git
+- rosdistro version: `2.1.0-0`
+- old version: `2.1.0-0`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## network_interface (melodic) - 2.1.0-0
 
 The packages in the `network_interface` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --ros-distro melodic --track melodic network_interface --edit` on `Fri, 31 Aug 2018 20:15:43 -0000`
