@@ -1,3 +1,26 @@
+## network_interface (noetic) - 3.1.0-1
+
+The packages in the `network_interface` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic network_interface` on `Fri, 28 May 2021 20:58:39 -0000`
+
+The `network_interface` package was released.
+
+Version of package(s) in repository `network_interface`:
+
+- upstream repository: https://github.com/astuff/network_interface.git
+- release repository: https://github.com/astuff/network_interface-release.git
+- rosdistro version: `3.0.0-1`
+- old version: `3.0.0-1`
+- new version: `3.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## network_interface (noetic) - 3.0.0-1
 
 The packages in the `network_interface` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic --new-track network_interface` on `Thu, 04 Mar 2021 14:33:59 -0000`
