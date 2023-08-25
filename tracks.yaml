@@ -18,7 +18,7 @@ tracks:
     last_version: 2003.1.1
     name: network_interface
     patches: null
-    release_inc: '1'
+    release_inc: '2'
     release_repo_url: git@github.com:astuff/network_interface-release
     release_tag: :{version}
     ros_distro: foxy
