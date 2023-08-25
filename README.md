@@ -1,3 +1,26 @@
+## network_interface (humble) - 2003.1.1-1
+
+The packages in the `network_interface` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble --track humble --new-track network_interface` on `Fri, 25 Aug 2023 20:55:28 -0000`
+
+The `network_interface` package was released.
+
+Version of package(s) in repository `network_interface`:
+
+- upstream repository: https://github.com/astuff/network_interface.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2003.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## network_interface (foxy) - 2003.1.1-2
 
 The packages in the `network_interface` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --ros-distro foxy --track foxy --new-track network_interface` on `Fri, 25 Aug 2023 19:49:13 -0000`
