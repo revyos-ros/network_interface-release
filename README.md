@@ -1,3 +1,26 @@
+## network_interface (foxy) - 2003.1.1-1
+
+The packages in the `network_interface` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --ros-distro foxy --track foxy --new-track network_interface` on `Fri, 25 Aug 2023 19:35:32 -0000`
+
+The `network_interface` package was released.
+
+Version of package(s) in repository `network_interface`:
+
+- upstream repository: https://github.com/astuff/network_interface.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2003.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## network_interface (noetic) - 3.1.0-1
 
 The packages in the `network_interface` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic network_interface` on `Fri, 28 May 2021 20:58:39 -0000`
