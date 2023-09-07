@@ -1,0 +1,9 @@
+Format: Bloom subset of https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: network_interface
+Upstream-Contact: https://github.com/astuff/network_interface/issues
+Source: https://github.com/astuff/network_interface
+
+Files: See file headers in repository for details
+Copyright: See package copyright in source code for details
+License: MIT
+ See repository for full license text
