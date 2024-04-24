@@ -35,10 +35,10 @@ tracks:
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --os-name debian --os-not-required
     devel_branch: ros2_master
-    last_version: 2003.1.1
+    last_version: 2003.1.2
     name: network_interface
     patches: null
-    release_inc: '2'
+    release_inc: '1'
     release_repo_url: git@github.com:revyos-ros/network_interface-release
     release_tag: :{version}
     ros_distro: humble
