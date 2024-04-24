@@ -1,0 +1,25 @@
+From b57ff1cfd31034a869a0ccf223b995cba045a6a4 Mon Sep 17 00:00:00 2001
+From: Sakura286 <sakura286@outlook.com>
+Date: Thu, 25 Apr 2024 01:02:11 +0800
+Subject: [PATCH] add boost c++ dependency
+
+---
+ debian/control | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/debian/control b/debian/control
+index e8dec1f..77f90f4 100644
+--- a/debian/control
++++ b/debian/control
+@@ -2,7 +2,7 @@ Source: ros-humble-network-interface
+ Section: misc
+ Priority: optional
+ Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+-Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake-auto, ros-humble-std-msgs, ros-humble-ros-workspace, ros-humble-rosidl-typesupport-fastrtps-c, ros-humble-rosidl-typesupport-fastrtps-cpp
++Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake-auto, ros-humble-std-msgs, ros-humble-ros-workspace, ros-humble-rosidl-typesupport-fastrtps-c, ros-humble-rosidl-typesupport-fastrtps-cpp, libboost1.74-dev
+ Homepage: http://wiki.ros.org/network_interface
+ Standards-Version: 3.9.2
+ 
+-- 
+2.34.1
+
